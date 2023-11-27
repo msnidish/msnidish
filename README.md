@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @msnidish
 - 👀 I’m interested in exploring new Technologies 
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently learning Full Stack Development and Machine Learning
 - 💞️ I’m looking to collaborate on Open Source Projects to get exposure to what I learned
 - 📫 How to reach me msnidish@gmail.com
 
